@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Noticias de Fórmula 1</title>
+<link>https://formula1.example.com</link>
+<description>Noticias y actualidad de Fórmula 1</description>
+<language>es-es</language>
+<copyright>Copyright 2026</copyright>
+<category>Fórmula 1</category>
+<item>
+<title>Preparativos para el próximo Gran Premio</title>
+<link>https://formula1.example.com/gran-premio</link>
+<description>Preparativos para la próxima carrera.</description>
+<pubDate>Sun, 27 Sep 2026 10:00:00 +0200</pubDate>
+<author>f1@example.com</author>
+</item>
+<item>
+<title>Novedades en los monoplazas</title>
+<link>https://formula1.example.com/monoplazas</link>
+<description>Nuevas mejoras en los monoplazas.</description>
+<pubDate>Sun, 27 Sep 2026 12:00:00 +0200</pubDate>
+<author>f1@example.com</author>
+</item>
+<item>
+<title>Los pilotos afrontan un nuevo desafío</title>
+<link>https://formula1.example.com/pilotos</link>
+<description>Los pilotos se preparan para la carrera.</description>
+<pubDate>Sun, 27 Sep 2026 14:00:00 +0200</pubDate>
+<author>f1@example.com</author>
+</item>
+</channel>
+</rss>
